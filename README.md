@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @king-aayush
 - 👀 I’m interested in Data structures and Algorithms
-- 🌱 I’m currently learning Web development (MERN) and Machine Learning
+- 🌱 I’m currently learning Web development and Machine Learning
 - 💞️ I’m looking to collaborate on : wherever possible
 - 📫 How to reach me: https://www.linkedin.com/in/aayush-desai-6b45b8233/
 
